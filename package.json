@@ -1,0 +1,14 @@
+{
+  "name": "kerrix-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.7",
+    "pino": "^9.0.0"
+  }
+}
